@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Laptop Gamer XYZ",
+    "precio": 1299.99,
+    "stock": 50,
+    "proveedor": "Tech Solutions Inc."
+  },
+  {
+    "nombre": "Monitor Curvo UltraWide",
+    "precio": 499.00,
+    "stock": 30,
+    "proveedor": "Display Innovations"
+  },
+  {
+    "nombre": "Teclado Mecánico RGB",
+    "precio": 89.50,
+    "stock": 120,
+    "proveedor": "Peripheral Powerhouse"
+  },
+  {
+    "nombre": "Mouse Inalámbrico Ergonómico",
+    "precio": 35.75,
+    "stock": 200,
+    "proveedor": "ErgoGear"
+  },
+  {
+    "nombre": "Auriculares Gaming con Micrófono",
+    "precio": 75.00,
+    "stock": 80,
+    "proveedor": "AudioFX"
+  },
+  {
+    "nombre": "Disco Duro Externo 2TB",
+    "precio": 99.99,
+    "stock": 150,
+    "proveedor": "Storage Solutions"
+  },
+  {
+    "nombre": "Memoria RAM DDR4 16GB",
+    "precio": 65.25,
+    "stock": 100,
+    "proveedor": "Memory Masters"
+  },
+  {
+    "nombre": "Webcam Full HD",
+    "precio": 45.00,
+    "stock": 70,
+    "proveedor": "Visionary Devices"
+  },
+  {
+    "nombre": "Impresora Multifunción Láser",
+    "precio": 249.00,
+    "stock": 25,
+    "proveedor": "PrintPerfect"
+  },
+  {
+    "nombre": "Router Wi-Fi 6",
+    "precio": 110.00,
+    "stock": 40,
+    "proveedor": "ConnectNow"
+  },
+  {
+    "nombre": "Tarjeta Gráfica RTX 4070",
+    "precio": 699.00,
+    "stock": 0,
+    "proveedor": "GPU Giants"
+  },
+  {
+    "nombre": "Fuente de Alimentación 750W",
+    "precio": 85.00,
+    "stock": 60,
+    "proveedor": "PowerUp Components"
+  },
+  {
+    "nombre": "Gabinete Mid-Tower con RGB",
+    "precio": 95.50,
+    "stock": 35,
+    "proveedor": "Case Creations"
+  },
+  {
+    "nombre": "Cámara Digital Mirrorless",
+    "precio": 799.00,
+    "stock": 0,
+    "proveedor": "PixelPro"
+  },
+  {
+    "nombre": "Smartwatch Deportivo",
+    "precio": 150.00,
+    "stock": 55,
+    "proveedor": "Wearable Tech"
+  },
+  {
+    "nombre": "Estación de Carga Inalámbrica",
+    "precio": 29.99,
+    "stock": 90,
+    "proveedor": "ChargeFast"
+  },
+  {
+    "nombre": "Silla Ergonómica de Oficina",
+    "precio": 180.00,
+    "stock": 20,
+    "proveedor": "ComfortSeating"
+  },
+  {
+    "nombre": "Proyector Portátil Mini",
+    "precio": 199.00,
+    "stock": 0,
+    "proveedor": "CinemaToGo"
+  },
+  {
+    "nombre": "Sistema de Sonido 2.1",
+    "precio": 120.00,
+    "stock": 45,
+    "proveedor": "SoundBlast"
+  },
+  {
+    "nombre": "Robot Aspirador Inteligente",
+    "precio": 350.00,
+    "stock": 10,
+    "proveedor": "CleanBotics"
+  }
+]
