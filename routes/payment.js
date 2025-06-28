@@ -68,9 +68,6 @@ const checkApiStatus = (req, res, next) => {
 };
 
 router.post("/process", checkApiStatus, async (req, res) => {
-    if (!req.session.user || !req.session.user.username) {
-        return res.status(401).json({ error: "Acceso no autorizado. Debe iniciar sesión." });
-    }
 
     const { paymentMethod, details, amount } = req.body;
 

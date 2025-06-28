@@ -5,10 +5,6 @@ describe("Fitness Function de Resiliencia (Payment API Circuit Breaker)", () => 
     let server;
     let agent;
 
-    const testUser = {
-        username: "user_payment_" + Date.now(),
-        password: "password123"
-    };
     const validPaymentData = {
         paymentMethod: "tarjeta_credito",
         details: { cardNumber: "1234-5678-9012-3456", expiry: "12/25", cvv: "123" },
@@ -18,14 +14,6 @@ describe("Fitness Function de Resiliencia (Payment API Circuit Breaker)", () => 
     beforeAll(async () => {
         server = app.listen(0);
         agent = request.agent(server);
-
-        await agent
-            .post("/users/register")
-            .send(testUser);
-        
-        await agent
-            .post("/users/login")
-            .send(testUser);
     });
 
     afterAll((done) => {
