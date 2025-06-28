@@ -4,7 +4,7 @@ const { performance } = require("perf_hooks");
 const path = require("path");
 const fs = require("fs");
 
-const PRODUCTOS_PATH = path.resolve(__dirname, "../database/productos.json");
+const PRODUCTOS_PATH = path.resolve(__dirname, "../database/products.json");
 
 const loadDB = (dbPath) => {
     try {

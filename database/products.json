@@ -1,0 +1,149 @@
+[
+    {
+        "id": "prod_laptop_gamer_xyz",
+        "nombre": "Laptop Gamer XYZ",
+        "precio": 1299.99,
+        "stock": 50,
+        "proveedor": "Tech Solutions Inc."
+    },
+    {
+        "id": "prod_monitor_curvo_ultrawide",
+        "nombre": "Monitor Curvo UltraWide",
+        "precio": 499.00,
+        "stock": 30,
+        "proveedor": "Display Innovations"
+    },
+    {
+        "id": "prod_teclado_mecanico_rgb",
+        "nombre": "Teclado Mecánico RGB",
+        "precio": 89.50,
+        "stock": 120,
+        "proveedor": "Peripheral Powerhouse"
+    },
+    {
+        "id": "prod_mouse_inalambrico_ergonomico",
+        "nombre": "Mouse Inalámbrico Ergonómico",
+        "precio": 35.75,
+        "stock": 200,
+        "proveedor": "ErgoGear"
+    },
+    {
+        "id": "prod_auriculares_gaming_microfono",
+        "nombre": "Auriculares Gaming con Micrófono",
+        "precio": 75.00,
+        "stock": 80,
+        "proveedor": "AudioFX"
+    },
+    {
+        "id": "prod_disco_duro_externo_2tb",
+        "nombre": "Disco Duro Externo 2TB",
+        "precio": 99.99,
+        "stock": 150,
+        "proveedor": "Storage Solutions"
+    },
+    {
+        "id": "prod_memoria_ram_ddr4_16gb",
+        "nombre": "Memoria RAM DDR4 16GB",
+        "precio": 65.25,
+        "stock": 100,
+        "proveedor": "Memory Masters"
+    },
+    {
+        "id": "prod_webcam_full_hd",
+        "nombre": "Webcam Full HD",
+        "precio": 45.00,
+        "stock": 70,
+        "proveedor": "Visionary Devices"
+    },
+    {
+        "id": "prod_impresora_multifuncion_laser",
+        "nombre": "Impresora Multifunción Láser",
+        "precio": 249.00,
+        "stock": 25,
+        "proveedor": "PrintPerfect"
+    },
+    {
+        "id": "prod_router_wifi_6",
+        "nombre": "Router Wi-Fi 6",
+        "precio": 110.00,
+        "stock": 40,
+        "proveedor": "ConnectNow"
+    },
+    {
+        "id": "prod_tarjeta_grafica_rtx_4070",
+        "nombre": "Tarjeta Gráfica RTX 4070",
+        "precio": 699.00,
+        "stock": 0,
+        "proveedor": "GPU Giants"
+    },
+    {
+        "id": "prod_fuente_alimentacion_750w",
+        "nombre": "Fuente de Alimentación 750W",
+        "precio": 85.00,
+        "stock": 60,
+        "proveedor": "PowerUp Components"
+    },
+    {
+        "id": "prod_gabinete_mid_tower_rgb",
+        "nombre": "Gabinete Mid-Tower con RGB",
+        "precio": 95.50,
+        "stock": 35,
+        "proveedor": "Case Creations"
+    },
+    {
+        "id": "prod_camara_digital_mirrorless",
+        "nombre": "Cámara Digital Mirrorless",
+        "precio": 799.00,
+        "stock": 0,
+        "proveedor": "PixelPro"
+    },
+    {
+        "id": "prod_smartwatch_deportivo",
+        "nombre": "Smartwatch Deportivo",
+        "precio": 150.00,
+        "stock": 55,
+        "proveedor": "Wearable Tech"
+    },
+    {
+        "id": "prod_estacion_carga_inalambrica",
+        "nombre": "Estación de Carga Inalámbrica",
+        "precio": 29.99,
+        "stock": 90,
+        "proveedor": "ChargeFast"
+    },
+    {
+        "id": "prod_silla_ergonomica_oficina",
+        "nombre": "Silla Ergonómica de Oficina",
+        "precio": 180.00,
+        "stock": 20,
+        "proveedor": "ComfortSeating"
+    },
+    {
+        "id": "prod_proyector_portatil_mini",
+        "nombre": "Proyector Portátil Mini",
+        "precio": 199.00,
+        "stock": 0,
+        "proveedor": "CinemaToGo"
+    },
+    {
+        "id": "prod_sistema_sonido_2_1",
+        "nombre": "Sistema de Sonido 2.1",
+        "precio": 120.00,
+        "stock": 45,
+        "proveedor": "SoundBlast"
+    },
+    {
+        "id": "prod_robot_aspirador_inteligente",
+        "nombre": "Robot Aspirador Inteligente",
+        "precio": 350.00,
+        "stock": 10,
+        "proveedor": "CleanBotics"
+    },
+    {
+        "id": "prod_abc",
+        "nombre": "Laptop Pro",
+        "precio": 1500.00,
+        "stock": 10,
+        "proveedor": "ProLaptops Co."
+    }
+]
